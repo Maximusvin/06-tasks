@@ -65,5 +65,5 @@ const countStars = 5;
 let stars = "";
 for (let i = 1; i <= countStars; i++) {
   stars = stars + "* ";
-  console.log(`${stars} \n`);
+  console.log(`${stars}`);
 }
